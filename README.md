@@ -2,8 +2,8 @@
 <h1 align="center">Hey there 👋 I'm <span style="color:#ff69b4;">Shivani Shewale</span></h1>
 
 <p align="center">
-  👨‍💻 Full-Stack Web & Software Developer <br />
-  🎓 B.Tech Computer Science & Engineering | 3rd Year Student 
+  👩‍💻 Full-Stack Web & Software Developer <br />
+  🎓 B.Tech in Computer Science & Engineering | 3rd Year Student 
 </p>
 
 <div align="center">
@@ -14,14 +14,10 @@
 
 ## 🌟 About Me
 
-
-💻 Role:       Full-Stack Developer & Software Engineer  
-🎓 Education:  3rd Year B.Tech in Computer Science & Engineering  
-🚀 Passion:    Building efficient systems, solving problems, and exploring cloud tech  
-🧠 Learning:   Advanced Backend, Cloud Deployment, and System Design  
-
-
-
+- 💻 **Role:** Full-Stack Developer & Software Engineer  
+- 🎓 **Education:** 3rd Year B.Tech in Computer Science & Engineering  
+- 🚀 **Passion:** Building efficient systems, solving problems, and exploring cloud tech  
+- 🧠 **Currently Learning:** Advanced Backend, Cloud Deployment, System Design  
 
 ---
 
@@ -33,14 +29,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### 🌐 Web & Backend Development
+### 🌐 Web & Backend
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
 
 ### 🎨 Frontend & Styling
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -57,29 +52,28 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
-
 ---
 
-## 📚 Core CS Skills
+## 📚 Core CS Concepts
 
-- 🧠 **Data Structures & Algorithms (DSA)**
-- 🧊 **Object-Oriented Programming (OOP)**
-- ⚙️ **Operating Systems (OS)**
-- 🌐 **Computer Networks (CN)**
-- ☁️ **Cloud Computing & Architecture**
-- 🔐 **APIs, REST, and Security Best Practices**
+- 🧠 Data Structures & Algorithms (DSA)  
+- 🧊 Object-Oriented Programming (OOP)  
+- ⚙️ Operating Systems (OS)  
+- 🌐 Computer Networks (CN)  
+- ☁️ Cloud Computing & Architecture  
+- 🔐 APIs, REST, and Security Best Practices  
 
 ---
 
 ## 📈 GitHub Stats
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivaniShewale02&show_icons=true&theme=rose_pine&hide_border=true&border_radius=10&icon_color=ff69b4&title_color=ff69b4&text_color=f8d6e0&bg_color=0d1117" alt="GitHub Stats"/>
 </div>
 
+---
 
-#### 💻 Top Languages
+## 💻 Top Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniShewale02&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=f8d6e0&bg_color=0d1117" alt="Top Languages"/>
@@ -87,33 +81,32 @@
 
 ---
 
-### 💖 Contribution Activity Graph
+## 🔥 Contribution Activity
 
-To see my contribution activity, check my GitHub chart here:
-
-![Your Contribution Graph](https://ghchart.rshah.org/ShivaniShewale02)
----
-
-## 🧠 Currently Learning
-
-- Advanced DSA (Trees, Graphs, DP)
-- Clean architecture & backend scalability
-- Spring Boot microservices + AWS deployment
-- Real-time systems & networking protocols
+![GitHub Contribution Graph](https://ghchart.rshah.org/ShivaniShewale02)
 
 ---
 
-## 📫 Let's Connect
+## 🧠 Currently Exploring
+
+- ⚡ Advanced DSA (Trees, Graphs, DP)  
+- 🧱 Clean Architecture & Backend Scalability  
+- ☁️ Spring Boot Microservices + AWS Deployment  
+- 🌐 Real-Time Systems & Networking Protocols  
+
+---
+
+## 📫 Let’s Connect!
 
 <p align="center">
-  <a href="www.linkedin.com/in/shivani-shewale-674384352" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/shivani-shewale-674384352" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white" /></a>
-  <a href="work.shivanishewale@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:work.shivanishewale@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to build it."</i><br>
-  <b>Thanks for visiting! 🚀</b>
+  <i>“The best way to predict the future is to build it.”</i><br>
+  <b>Thanks for stopping by! 💖</b>
 </p>
