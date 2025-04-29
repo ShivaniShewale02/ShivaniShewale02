@@ -81,9 +81,7 @@
 
 ---
 
-## 🔥 Contribution Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/ShivaniShewale02)
 
 ---
 
