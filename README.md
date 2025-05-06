@@ -65,21 +65,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivaniShewale02&show_icons=true&theme=rose_pine&hide_border=true&border_radius=10&icon_color=ff69b4&title_color=ff69b4&text_color=f8d6e0&bg_color=0d1117" alt="GitHub Stats"/>
-</div>
-
----
-
-## 💻 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniShewale02&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=f8d6e0&bg_color=0d1117" alt="Top Languages"/>
-</div>
-
----
 
 
 
