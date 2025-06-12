@@ -14,10 +14,10 @@
 
 ## 🌟 About Me
 
-- 💻 **Role:** Full-Stack Developer & Software Engineer  
-- 🎓 **Education:** 3rd Year B.Tech in Computer Science & Engineering  
+- 💻 **Role:** Full-Stack Developer| Software Engineer|AI ML Developer  
+- 🎓 **Education:** 4th Year B.Tech in Computer Science & Engineering  
 - 🚀 **Passion:** Building efficient systems, solving problems, and exploring cloud tech  
-- 🧠 **Currently Learning:** Advanced Backend, Cloud Deployment, System Design  
+- 🧠 **Currently Learning:** Advanced Backend, Cloud Deployment, System Design  and Machine Learning
 
 ---
 
