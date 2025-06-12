@@ -2,8 +2,8 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#ff69b4;">Shivani Shewale </span></h1>
 
 <p align="center">
-  👩‍💻 Full-Stack Web & Software Developer <br />
-  🎓 B.Tech in Computer Science & Engineering | 3rd Year Student 
+  👩‍💻 Full-Stack Web & Software Developer & AI ML Developer <br />
+  🎓 B.Tech in Computer Science & Engineering | 4th Year Student 
 </p>
 
 <div align="center">
