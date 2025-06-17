@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#ff69b4;">Shivani Shewale </span></h1>
 
 <p align="center">
-  👩‍💻 Full-Stack Web & Software Developer & AI ML Developer <br />
+  👩‍💻Software Engineer | Full Stack Web Developer | AI/ML & Data Science Enthusiast | Building Scalable & Intelligent Solutions <br />
   🎓 B.Tech in Computer Science & Engineering | 4th Year Student 
 </p>
 
