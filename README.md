@@ -3,7 +3,7 @@
 
 <p align="center">
   Software Engineer | Full Stack Web Developer | AI/ML & Data Science Enthusiast | Building Scalable & Intelligent Solutions <br />
-  🎓 B.Tech in Computer Science & Engineering | 4th Year Student 
+  B.Tech in Computer Science & Engineering | 4th Year Student 
 </p>
 
 <div align="center">
