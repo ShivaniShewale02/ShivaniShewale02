@@ -34,7 +34,7 @@
 ## 💻 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch,html,css,js,react,tailwind,bootstrap,nodejs,express,mysql,mongodb,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,js,react,tailwind,bootstrap,nodejs,express,mysql,mongodb,docker,aws" />
 </p>
 
 <table>
