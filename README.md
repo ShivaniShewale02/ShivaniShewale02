@@ -1,113 +1,150 @@
-
-<h1 align="center">Hey there! 👋 I'm <span style="color:#ff69b4;">Shivani Shewale </span></h1>
+<!-- Profile README for Shivani Shewale -->
 
 <p align="center">
-  Software Developer |  AI/ML & Data Science Enthusiast  <br />
-  B.Tech in Computer Science & Engineering | 4th Year Student 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=EC4899&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Shivani+Shewale;AI+%7C+ML+%7C+Data+Science+Enthusiast;Final+Year+BTech+CSE+Student;Software+Developer+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontColor=ffffff" />
-</div>
-
----
-
-### 🌟 About Me
-
-* 💻 **Role:** Full-Stack Developer | Software Engineer | AI/ML & Data Science Enthusiast
-* 🎓 **Education:** Final Year B.Tech in Computer Science & Engineering
-* 🚀 **Passion:** Building intelligent, scalable systems and crafting elegant, user-focused web solutions
-* 🧠 **Currently Learning:** Advanced Machine Learning, Deep Learning, Data Science Projects, and Full-Stack Web Development with Spring Boot & React
-
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-### 🌐 Web & Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🎨 Frontend & Styling
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-### ⚙️ Tools & Environments
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
-### 🤖 AI, Machine Learning & Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-44BABA?style=for-the-badge\&logo=seaborn\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge\&logo=google-colab\&logoColor=white)
-
----
-
-## 📚 Core CS Concepts
-
-- 🧠 Data Structures & Algorithms (DSA)  
-- 🧊 Object-Oriented Programming (OOP)  
-- ⚙️ Operating Systems (OS)  
-- 🌐 Computer Networks (CN)  
-- ☁️ Cloud Computing & Architecture  
-- 🔐 APIs, REST, and Security Best Practices  
-
----
-
-
-
-
-
-
-
-## 🧠 Currently Exploring
-
-- ⚡ Advanced DSA (Trees, Graphs, DP)  
-- 🧱 Clean Architecture & Backend Scalability  
-- ☁️ Spring Boot Microservices + AWS Deployment  
-- 🌐 Real-Time Systems & Networking Protocols  
-
----
-
-## 📫 Let’s Connect!
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivani-shewale-674384352" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white" /></a>
-  <a href="mailto:work.shivanishewale@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/BTech%20CSE-ADYPU-F7A8B8?style=flat-square&logo=graduation-cap&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI/ML Developer-FDCBFF?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/Data%20Science-FFB6B9?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Developer-F7A8B8?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <i>“The best way to predict the future is to build it.”</i><br>
-  <b>Thanks for stopping by! 💖</b>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="girl-coding-gif" />
 </p>
+
+---
+
+## 👩‍💼 About Me
+
+- 🎓 **Final year BTech CSE** student at <b style="color:#F7A8B8;">Ajeenkya DY Patil University</b>
+- 💖 Passionate about <b>AI, Machine Learning, Data Science, and Software Development</b>
+- ✨ Creating elegant solutions with clean code and creative flair
+- 🌱 Continuously learning and growing in the tech world
+- 👩‍💻 Advocate for diversity and women in technology
+
+---
+
+## 💻 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch,html,css,js,react,tailwind,bootstrap,nodejs,express,mysql,mongodb,docker,aws" />
+</p>
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-EC4899?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-FFD6E0?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-F7A8B8?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/OOP-BA68C8?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI/ML/Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF61A6?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-FF6F91?style=flat-square&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-FF6384?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F9A826?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Transformers-FFD6E0?style=flat-square" />
+      <img src="https://img.shields.io/badge/Deep%20Learning-BD6EC6?style=flat-square" />
+      <img src="https://img.shields.io/badge/NLP-FDCBFF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Data%20Science-FFB6B9?style=flat-square&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python%20Libraries-EC4899?style=flat-square" />
+      <img src="https://img.shields.io/badge/PowerBI-FBC02D?style=flat-square&logo=powerbi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-FFB6B9?style=flat-square&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web Dev</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-FFB6B9?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-F7A8B8?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-FF61A6?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-FFD6E0?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-FDCBFF?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-EC4899?style=flat-square&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/RESTful%20APIs-FF61A6?style=flat-square" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Other</b></td>
+    <td>
+      Computer Networking, Agile, DSA, Problem Solving, MySQL, Git & GitHub
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Projects I'm Proud Of
+
+- **StyleMate+**: AI-powered fashion recommendation web app for personalized outfit, accessory, and makeup suggestions. Combines a custom CNN, FastAPI backend, and a Pinterest-inspired React UI.
+  <br><sub><b>Tech stack:</b> HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, MongoDB, FastAPI, Python, OpenCV, CNN, RESTful APIs</sub>
+
+- **ApplyXpert**: Full-stack web app that analyzes resumes and job descriptions, providing instant, ATS-optimized feedback and job match suggestions using NLP.
+  <br><sub><b>Tech stack:</b> HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, MongoDB, Python, spaCy, PyMuPDF, FPDF, RESTful APIs</sub>
+
+- **Network Traffic Management And Tracking**: Real-time system for detecting and visualizing network anomalies using unsupervised learning and an interactive map.
+  <br><sub><b>Tech stack:</b> Python, R, FastAPI, HTML, Isolation Forest, Leaflet</sub>
+
+> *Check out my pinned repos for more!*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivaniShewale02&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fffafc&title_color=EC4899&icon_color=F7A8B8&text_color=9B59B6" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniShewale02&layout=compact&theme=rose_pine&hide_border=true&bg_color=fffafc&title_color=EC4899&text_color=9B59B6" height="170" alt="languages" />
+</p>
+
+---
+
+## 🌱 What I'm Up To
+
+- 🚀 Exploring the latest in AI, ML, and Data Science
+- 🛠️ Building creative and impactful projects with Python, React, Node.js, and more
+- 🤝 Supporting women in tech and open source communities
+
+---
+
+## 💌 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivani-shewale-674384352/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-shivani--shewale-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://shivanishewale02.github.io/ShivaniPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-9B59B6?style=for-the-badge&logo=portfolio&logoColor=white" />
+  </a>
+  <a href="mailto:work.shivanishewale@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-work.shivanishewale@gmail.com-FF61A6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center" style="font-size:1.1em;">
+  <b>✨ Thanks for stopping by! Have a wonderful day! ✨</b>
+</p>
+
+<!--
+⭐️ From [ShivaniShewale02](https://github.com/ShivaniShewale02)
+-->
