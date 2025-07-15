@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Software%20Developer-F7A8B8?style=flat-square&logo=github&logoColor=white" />
 </p>
 
----
 
 ---
 
